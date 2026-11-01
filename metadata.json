@@ -1,0 +1,6 @@
+{
+  "name": "ActionPulse: Smart Meeting-to-Action Copilot",
+  "description": "Converts messy meeting notes and raw audio transcripts into structured action items, executive summaries, and ready-to-send follow-up emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
